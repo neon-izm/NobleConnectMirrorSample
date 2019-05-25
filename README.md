@@ -13,12 +13,12 @@ NAT punchthroughとかはNobleConnectに頼っています。
 
 
 # プロジェクトの遊び方
-Unity2018.3.6f1でプロジェクトを開く(コンパイルエラーが起きます、気にしなくて大丈夫です）
+1. Unity2018.3.6f1でプロジェクトを開く(コンパイルエラーが起きます、気にしなくて大丈夫です）
 
-Noble Connect Freeをインポートする
+2. Noble Connect Freeをインポートする
 https://assetstore.unity.com/packages/tools/network/noble-connect-free-141599
 
-NobleConnectの設定をReadmeに従って行う
+3. NobleConnectの設定をReadmeに従って行う
 
 ![result](https://github.com/neon-izm/NobleConnectMirrorSample/blob/master/DocImage/Sample.gif?raw=true)
 
