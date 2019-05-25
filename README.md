@@ -1,8 +1,16 @@
-﻿# MultiPlayerMOsample
+# MultiPlayerMOsample
 Use Mirror+ Noble Connect(Relay)
 
 最小限のMirrorを使ったゲーム部分作成。
 NAT punchthroughとかはNobleConnectに頼っています。
+
+作った意図としては
+- スタート、ロビー、ゲーム、リザルト、　と2シーン以上のシーン構成で動くサンプルを出したかった
+- 弾や敵だけじゃなく、アイテムや装備可能オブジェクト、スコア概念を含んだサンプルが欲しかった
+- LAN外の回線同士などもリレーサービスを使う事で繋がるサンプルが欲しかった
+
+という感じです。
+
 
 # プロジェクトの遊び方
 Unity2018.3.6f1でプロジェクトを開く(コンパイルエラーが起きます、気にしなくて大丈夫です）
@@ -11,6 +19,9 @@ Noble Connect Freeをインポートする
 https://assetstore.unity.com/packages/tools/network/noble-connect-free-141599
 
 NobleConnectの設定をReadmeに従って行う
+
+![result](https://github.com/neon-izm/NobleConnectMirrorSample/blob/master/DocImage/Sample.gif?raw=true)
+
 
 
 # Environment
